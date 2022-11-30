@@ -9,9 +9,10 @@ Instalar o RabbitMQ
 
 [ACESSO]
 
-Abrir o terminal
-Ir até: C:\Program Files\RabbitMQ Server\rabbitmq_server-3.11.1\sbin
-Executar: .\rabbitmq-plugins.bat enable rabbitmq_management
+Abrir o terminal e executar os comandos:
+
+1° cd "C:\Program Files\RabbitMQ Server\rabbitmq_server-3.11.1\sbin"
+2° .\rabbitmq-plugins.bat enable rabbitmq_management"
 
 [ACESSO 2]
 
